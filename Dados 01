@@ -1,0 +1,5 @@
+typedef struct {
+    int id;
+    long size;  // tamanho em bytes
+    char timestamp[20];
+} Image;
